@@ -1,0 +1,81 @@
+Program,Family Size,Income Minimum Category,Income Minimum,Income Maximum Category,Income Maximum,Program URL
+Inclusionary Housing Rental Program,1,HUD 50%,52250,City 80%,83384,https://www.cambridgema.gov/CDD/housing/forapplicants/rentalapplicantpool
+Inclusionary Housing Rental Program,2,HUD 50%,59700,City 80%,95296,https://www.cambridgema.gov/CDD/housing/forapplicants/rentalapplicantpool
+Inclusionary Housing Rental Program,3,HUD 50%,67200,City 80%,107208,https://www.cambridgema.gov/CDD/housing/forapplicants/rentalapplicantpool
+Inclusionary Housing Rental Program,4,HUD 50%,74650,City 80%,119120,https://www.cambridgema.gov/CDD/housing/forapplicants/rentalapplicantpool
+Inclusionary Housing Rental Program,5,HUD 50%,80600,City 80%,128648,https://www.cambridgema.gov/CDD/housing/forapplicants/rentalapplicantpool
+Inclusionary Housing Rental Program,6,HUD 50%,86600,City 80%,138176,https://www.cambridgema.gov/CDD/housing/forapplicants/rentalapplicantpool
+Inclusionary Housing Rental Program,7,HUD 50%,92550,City 80%,147712,https://www.cambridgema.gov/CDD/housing/forapplicants/rentalapplicantpool
+Inclusionary Housing Rental Program,8,HUD 50%,98500,City 80%,157240,https://www.cambridgema.gov/CDD/housing/forapplicants/rentalapplicantpool
+Homeownership Resale Pool,1,HUD 50%,52250,100% Median,104230,https://www.cambridgema.gov/CDD/housing/forapplicants/resalepool
+Homeownership Resale Pool,2,HUD 50%,59700,100% Median,119120,https://www.cambridgema.gov/CDD/housing/forapplicants/resalepool
+Homeownership Resale Pool,3,HUD 50%,67200,100% Median,134010,https://www.cambridgema.gov/CDD/housing/forapplicants/resalepool
+Homeownership Resale Pool,4,HUD 50%,74650,100% Median,148900,https://www.cambridgema.gov/CDD/housing/forapplicants/resalepool
+Homeownership Resale Pool,5,HUD 50%,80600,100% Median,160810,https://www.cambridgema.gov/CDD/housing/forapplicants/resalepool
+Homeownership Resale Pool,6,HUD 50%,86600,100% Median,172720,https://www.cambridgema.gov/CDD/housing/forapplicants/resalepool
+Homeownership Resale Pool,7,HUD 50%,92550,100% Median,184640,https://www.cambridgema.gov/CDD/housing/forapplicants/resalepool
+Homeownership Resale Pool,8,HUD 50%,98500,100% Median,196550,https://www.cambridgema.gov/CDD/housing/forapplicants/resalepool
+Homebridge,1,HUD 60%,68520,City 120%,125076,https://www.cambridgema.gov/CDD/housing/forhomebuyers/HomeBridge
+Homebridge,2,HUD 60%,78360,City 120%,142944,https://www.cambridgema.gov/CDD/housing/forhomebuyers/HomeBridge
+Homebridge,3,HUD 60%,88140,City 120%,160812,https://www.cambridgema.gov/CDD/housing/forhomebuyers/HomeBridge
+Homebridge,4,HUD 60%,97920,City 120%,178680,https://www.cambridgema.gov/CDD/housing/forhomebuyers/HomeBridge
+Homebridge,5,HUD 60%,105780,City 120%,192972,https://www.cambridgema.gov/CDD/housing/forhomebuyers/HomeBridge
+Homebridge,6,HUD 60%,113640,City 120%,207264,https://www.cambridgema.gov/CDD/housing/forhomebuyers/HomeBridge
+Homebridge,7,HUD 60%,121440,City 120%,221568,https://www.cambridgema.gov/CDD/housing/forhomebuyers/HomeBridge
+Homebridge,8,HUD 60%,129240,City 120%,235860,https://www.cambridgema.gov/CDD/housing/forhomebuyers/HomeBridge
+Middle-Income Rental Program,1,City 80%,83384,City 120%,125076,https://www.cambridgema.gov/CDD/housing/forapplicants/middleincomerentalprogram
+Middle-Income Rental Program,2,City 80%,95296,City 120%,142944,https://www.cambridgema.gov/CDD/housing/forapplicants/middleincomerentalprogram
+Middle-Income Rental Program,3,City 80%,107208,City 120%,160812,https://www.cambridgema.gov/CDD/housing/forapplicants/middleincomerentalprogram
+Middle-Income Rental Program,4,City 80%,119120,City 120%,178680,https://www.cambridgema.gov/CDD/housing/forapplicants/middleincomerentalprogram
+Middle-Income Rental Program,5,City 80%,128648,City 120%,192972,https://www.cambridgema.gov/CDD/housing/forapplicants/middleincomerentalprogram
+Middle-Income Rental Program,6,City 80%,138176,City 120%,207264,https://www.cambridgema.gov/CDD/housing/forapplicants/middleincomerentalprogram
+Middle-Income Rental Program,7,City 80%,147712,City 120%,221568,https://www.cambridgema.gov/CDD/housing/forapplicants/middleincomerentalprogram
+Middle-Income Rental Program,8,City 80%,157240,City 120%,235860,https://www.cambridgema.gov/CDD/housing/forapplicants/middleincomerentalprogram
+CHA Housing Choice Voucher (Section 8) Program,1,No minimum,0,HUD 50%,52250,https://cambridge-housing.org/
+CHA Housing Choice Voucher (Section 8) Program,2,No minimum,0,HUD 50%,59700,https://cambridge-housing.org/
+CHA Housing Choice Voucher (Section 8) Program,3,No minimum,0,HUD 50%,67200,https://cambridge-housing.org/
+CHA Housing Choice Voucher (Section 8) Program,4,No minimum,0,HUD 50%,74650,https://cambridge-housing.org/
+CHA Housing Choice Voucher (Section 8) Program,5,No minimum,0,HUD 50%,80600,https://cambridge-housing.org/
+CHA Housing Choice Voucher (Section 8) Program,6,No minimum,0,HUD 50%,86600,https://cambridge-housing.org/
+CHA Housing Choice Voucher (Section 8) Program,7,No minimum,0,HUD 50%,92550,https://cambridge-housing.org/
+CHA Housing Choice Voucher (Section 8) Program,8,No minimum,0,HUD 50%,98500,https://cambridge-housing.org/
+CHA Elderly and Family Housing Programs,1,No minimum,0,HUD 80%,91200,https://cambridge-housing.org/
+CHA Elderly and Family Housing Programs,2,No minimum,0,HUD 80%,104200,https://cambridge-housing.org/
+CHA Elderly and Family Housing Programs,3,No minimum,0,HUD 80%,117250,https://cambridge-housing.org/
+CHA Elderly and Family Housing Programs,4,No minimum,0,HUD 80%,130250,https://cambridge-housing.org/
+CHA Elderly and Family Housing Programs,5,No minimum,0,HUD 80%,140700,https://cambridge-housing.org/
+CHA Elderly and Family Housing Programs,6,No minimum,0,HUD 80%,151100,https://cambridge-housing.org/
+CHA Elderly and Family Housing Programs,7,No minimum,0,HUD 80%,161550,https://cambridge-housing.org/
+CHA Elderly and Family Housing Programs,8,No minimum,0,HUD 80%,171950,https://cambridge-housing.org/
+Home Improvement Program,1,No minimum,0,HUD 80%,91200,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program,2,No minimum,0,HUD 80%,104200,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program,3,No minimum,0,HUD 80%,117250,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program,4,No minimum,0,HUD 80%,130250,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program,5,No minimum,0,HUD 80%,140700,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program,6,No minimum,0,HUD 80%,151100,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program,7,No minimum,0,HUD 80%,161550,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program,8,No minimum,0,HUD 80%,171950,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+FTHB Downpayment Assistance,1,No minimum,0,HUD 80%,91200,https://www.cambridgema.gov/CDD/housing/forhomebuyers/downpaymentassistance
+FTHB Downpayment Assistance,2,No minimum,0,HUD 80%,104200,https://www.cambridgema.gov/CDD/housing/forhomebuyers/downpaymentassistance
+FTHB Downpayment Assistance,3,No minimum,0,HUD 80%,117250,https://www.cambridgema.gov/CDD/housing/forhomebuyers/downpaymentassistance
+FTHB Downpayment Assistance,4,No minimum,0,HUD 80%,130250,https://www.cambridgema.gov/CDD/housing/forhomebuyers/downpaymentassistance
+FTHB Downpayment Assistance,5,No minimum,0,HUD 80%,140700,https://www.cambridgema.gov/CDD/housing/forhomebuyers/downpaymentassistance
+FTHB Downpayment Assistance,6,No minimum,0,HUD 80%,151100,https://www.cambridgema.gov/CDD/housing/forhomebuyers/downpaymentassistance
+FTHB Downpayment Assistance,7,No minimum,0,HUD 80%,161550,https://www.cambridgema.gov/CDD/housing/forhomebuyers/downpaymentassistance
+FTHB Downpayment Assistance,8,No minimum,0,HUD 80%,171950,https://www.cambridgema.gov/CDD/housing/forhomebuyers/downpaymentassistance
+Most Private and Non-profit Affordable Housing,1,No minimum,0,HUD 80%,91200,https://www.cambridgema.gov/CDD/housing/forapplicants/availableunits
+Most Private and Non-profit Affordable Housing,2,No minimum,0,HUD 80%,104200,https://www.cambridgema.gov/CDD/housing/forapplicants/availableunits
+Most Private and Non-profit Affordable Housing,3,No minimum,0,HUD 80%,117250,https://www.cambridgema.gov/CDD/housing/forapplicants/availableunits
+Most Private and Non-profit Affordable Housing,4,No minimum,0,HUD 80%,130250,https://www.cambridgema.gov/CDD/housing/forapplicants/availableunits
+Most Private and Non-profit Affordable Housing,5,No minimum,0,HUD 80%,140700,https://www.cambridgema.gov/CDD/housing/forapplicants/availableunits
+Most Private and Non-profit Affordable Housing,6,No minimum,0,HUD 80%,151100,https://www.cambridgema.gov/CDD/housing/forapplicants/availableunits
+Most Private and Non-profit Affordable Housing,7,No minimum,0,HUD 80%,161550,https://www.cambridgema.gov/CDD/housing/forapplicants/availableunits
+Most Private and Non-profit Affordable Housing,8,No minimum,0,HUD 80%,171950,https://www.cambridgema.gov/CDD/housing/forapplicants/availableunits
+Home Improvement Program for NRSAs,1,No minimum,0,City 120%,125076,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program for NRSAs,2,No minimum,0,City 120%,142944,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program for NRSAs,3,No minimum,0,City 120%,160812,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program for NRSAs,4,No minimum,0,City 120%,178680,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program for NRSAs,5,No minimum,0,City 120%,192972,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program for NRSAs,6,No minimum,0,City 120%,207264,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program for NRSAs,7,No minimum,0,City 120%,221568,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
+Home Improvement Program for NRSAs,8,No minimum,0,City 120%,235860,https://www.cambridgema.gov/CDD/housing/forhomeowners/hip
